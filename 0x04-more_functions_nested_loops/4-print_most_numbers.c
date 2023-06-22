@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
-*print_most_numbers - print
-*Return: void
-*/
+ * print_most_numbers - prints all the digits from 0 to 9 
+ * excluding 2 and 4
+ * Returns: Always 0 (Success)
+ */
 
 void print_most_numbers(void)
 {
