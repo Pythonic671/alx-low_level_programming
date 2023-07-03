@@ -1,4 +1,4 @@
-# 0x06. C - Even more pointers, arrays and strings
+# 0x07. C - Even more pointers, arrays and strings
 
 ## Description
 What you should learn from this project:
